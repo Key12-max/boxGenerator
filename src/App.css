@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.box{
+  width: 200px;
+  height: 100px;  
+  padding: 50px;
+  border: 1px solid red;
+  box-sizing: border-box;
+}
+.btn{
+  padding: 12px 12px; 
+  font-family: Arial, sans-serif; 
+  font-weight: bold;
+  background: linear-gradient(30deg, rebeccapurple, magenta); 
+  color: #fff; 
+  border: none;
+  margin: 8px;
+  box-sizing: border-box;
+  
+}
